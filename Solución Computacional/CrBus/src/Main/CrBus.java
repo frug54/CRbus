@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package appcrbus;
+
+package Main;
 
 /**
  *
- * @author Fernando
+ * @author ke_m_ar
  */
-public class AppCRbus {
+public class CrBus {
 
     /**
      * @param args the command line arguments
